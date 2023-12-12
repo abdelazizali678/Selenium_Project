@@ -1,0 +1,29 @@
+{
+  "homepagelink": "https://automationexercise.com/",
+  "signupPage": {
+    "title": "New User Signup!",
+    "Name": "Abdelaziz",
+    "Email": "abdelaziz90900@gmail.com"
+  },
+  "accountInfoPage": {
+    "title": "ENTER ACCOUNT INFORMATION",
+    "form": {
+      "password":"abdelaziz90900@gmail.com",
+      "Day": "2",
+      "Month": "January",
+      "Year": "2020",
+      "FirstName": "Abdelaziz",
+      "LastName": "ali",
+      "Company": "Giza",
+      "Address1": "Address1",
+      "Address2": "Address2",
+      "Country": "Canada",
+      "State": "state",
+      "City": "city",
+      "Zipcode": "012345",
+      "mobileNumber": "0123455555"
+    },
+    "FianlPageTitle": "ACCOUNT CREATED!"
+
+  }
+}
